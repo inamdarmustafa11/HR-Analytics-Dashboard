@@ -34,6 +34,3 @@ I created an **HR Analytics Dashboard** using Power BI that provides key insight
   - Female: 489
 
 This dashboard helps in understanding the factors contributing to employee attrition, allowing for better strategic planning and retention efforts.
-
-
-#PowerBI #HRAnalytics #DataAnalysis #Dashboard #BusinessIntelligence #DataVisualization #EmployeeAttrition #HRInsights
