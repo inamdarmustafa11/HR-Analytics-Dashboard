@@ -1,6 +1,6 @@
 # HR Analytics Dashboard
 ## Live Dashboard
-[Click here to view the live dashboard](https://your-live-dashboard-link)
+[Click here to view the live dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTAwOWQ4YzgtZmM2OC00NzAzLWIwNmQtZWEyM2M1NjY1MTM2IiwidCI6IjMwOTJkZjBiLWRhMjMtNDA1Yi1iZDczLWU5YThmZWEwODM2MSJ9)
 
 ## Overview
 I created an **HR Analytics Dashboard** using Power BI that provides key insights into employee attrition, demographics, and more.
